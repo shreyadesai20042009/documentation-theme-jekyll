@@ -1,4 +1,4 @@
-![homepage](https://github.com/user-attachments/assets/9d4434bb-a4bc-4090-af26-45627d5c3f68)
+![homepage](assets/images/homepage.png)
 ![sidebar](https://github.com/user-attachments/assets/a017bc82-7a35-41d7-8c66-89cf61e25601)
 ![documentation](https://github.com/user-attachments/assets/290217d7-e79a-4cdb-9dcf-2331548ae6d0)
 # Documentation Theme – Jekyll
