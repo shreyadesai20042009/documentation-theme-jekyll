@@ -1,6 +1,3 @@
-![homepage](assets/images/homepage.png)
-![sidebar](https://github.com/user-attachments/assets/a017bc82-7a35-41d7-8c66-89cf61e25601)
-![documentation](https://github.com/user-attachments/assets/290217d7-e79a-4cdb-9dcf-2331548ae6d0)
 # Documentation Theme – Jekyll
 
 This is a documentation website theme built using Jekyll.
@@ -42,16 +39,13 @@ It can be used to create clean and simple documentation sites.
 - ## Screenshots
 
 ### Homepage
-![Homepage](assets/images/homepage.png)
+![Homepage](images/homepage.jpeg)
 
 ### Sidebar Navigation
-![Sidebar Navigation](assets/images/sidebar-navigation.png)
+![Sidebar Navigation](images/sidebar.jpeg)
 
 ### Documentation Page
-![Documentation Page](assets/images/documentation-page.png)
-
-- ## Contributors
-- Shreya Vishwajeet Desai (Documentation improvements)
+![Documentation Page](images/documentation.jpeg)
 
 
 
